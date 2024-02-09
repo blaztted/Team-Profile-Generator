@@ -1,0 +1,28 @@
+{
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blaztted/Team-Profile-Generator.git"
+  },
+  "author": "blaztted",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/blaztted/Team-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/blaztted/Team-Profile-Generator#readme",
+  "dependencies": {
+    "inquirer": "^9.2.14"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
