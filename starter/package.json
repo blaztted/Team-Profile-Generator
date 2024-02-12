@@ -14,13 +14,13 @@
     "url": "git+https://github.com/blaztted/Team-Profile-Generator.git"
   },
   "author": "blaztted",
-  "license": "MIT",
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/blaztted/Team-Profile-Generator/issues"
   },
   "homepage": "https://github.com/blaztted/Team-Profile-Generator#readme",
   "dependencies": {
-    "inquirer": "^9.2.14"
+    "inquirer": "^8.2.6"
   },
   "devDependencies": {
     "jest": "^29.7.0"
