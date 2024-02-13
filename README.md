@@ -46,3 +46,7 @@ Should you have any inquiries regarding this repository, feel free to raise an i
 Explore more of my work at [blaztted](https://www.github.com/blaztted).
 
 ## DEMO
+
+Improvements to the visual presentation and styling are currently in progress to provide a more polished experience.
+
+![html printscreen](./assets/html-printscreen.png)
