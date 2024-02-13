@@ -162,6 +162,8 @@ function startApp() {
               console.log("Invalid choice. Please try again.");
           }
         }
+        const createHTML = render(teamMembers);
+        fs.writeFileSync(outputPath, createHTML);
       }
 
       processNextAction();
